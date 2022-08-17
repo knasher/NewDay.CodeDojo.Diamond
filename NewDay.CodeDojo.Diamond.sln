@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewDay.CodeDojo.Diamond", "src\NewDay.CodeDojo.Diamond.csproj", "{00230411-2E91-4574-8270-77E9DD221FDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewDay.CodeDojo.Diamond.Tests.Unit", "tests\NewDay.CodeDojo.Diamond.Tests.Unit.csproj", "{B4D9EA0C-E79D-40AB-A4D3-25995C80CCE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00230411-2E91-4574-8270-77E9DD221FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00230411-2E91-4574-8270-77E9DD221FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00230411-2E91-4574-8270-77E9DD221FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00230411-2E91-4574-8270-77E9DD221FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4D9EA0C-E79D-40AB-A4D3-25995C80CCE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D9EA0C-E79D-40AB-A4D3-25995C80CCE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D9EA0C-E79D-40AB-A4D3-25995C80CCE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D9EA0C-E79D-40AB-A4D3-25995C80CCE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
